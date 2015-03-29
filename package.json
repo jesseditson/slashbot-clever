@@ -1,0 +1,30 @@
+{
+  "name": "slashbot-clever",
+  "version": "1.0.0",
+  "description": "A cleverbot listener for slashbot",
+  "main": "clever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesseditson/slashbot-clever.git"
+  },
+  "keywords": [
+    "slashbot",
+    "bot",
+    "slack",
+    "cleverbot",
+    "clever"
+  ],
+  "author": "Jesse Ditson <jesse.ditson@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesseditson/slashbot-clever/issues"
+  },
+  "homepage": "https://github.com/jesseditson/slashbot-clever",
+  "dependencies": {
+    "cleverbot-node": "^0.1.8",
+    "debug": "^2.1.3"
+  }
+}
